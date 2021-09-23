@@ -4,6 +4,7 @@ Assume star wars is your favorite movie.
 
 
 // If favoriteMovie is "jaws"
+
 // Assign moviePhrase the value "You're gonna need a bigger boat."
 // Else if favoriteMovie is "the shining"
 // Assign moviePhrase the value "All work and no play makes Jack a dull boy."
